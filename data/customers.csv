@@ -1,0 +1,13 @@
+customer_id,customer_name,industry,country,currency,customer_segment,account_manager
+CUST001,Apollo Healthcare,Healthcare,India,INR,Enterprise,Ravi Kumar
+CUST002,MedTech Solutions,Medical Devices,India,INR,Enterprise,Priya Shah
+CUST003,NorthStar Labs,Laboratory,USA,USD,Mid-Market,Daniel Lee
+CUST004,GreenLife Pharma,Pharmaceuticals,UK,GBP,Enterprise,Emma Wilson
+CUST005,BioCore Research,Research,Germany,EUR,Mid-Market,Lukas Weber
+CUST006,CarePoint Hospitals,Healthcare,India,INR,Enterprise,Anita Rao
+CUST007,Precision Diagnostics,Diagnostics,USA,USD,Mid-Market,Michael Brown
+CUST008,NovaMed Devices,Medical Devices,France,EUR,Enterprise,Claire Martin
+CUST009,Wellness Labs,Laboratory,India,INR,SMB,Arjun Mehta
+CUST010,Global BioLabs,Research,USA,USD,Enterprise,Sophia Davis
+CUST011,Prime Therapeutics,Pharmaceuticals,Canada,CAD,Enterprise,Noah Smith
+CUST012,Medisphere Group,Healthcare,Australia,AUD,Mid-Market,Olivia Taylor

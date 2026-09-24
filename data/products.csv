@@ -1,0 +1,9 @@
+product_id,product_name,category,subcategory,list_price_usd
+PROD001,Lab Analyzer X1,Laboratory Equipment,Lab Instruments,10000
+PROD002,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments,7500
+PROD003,Cold Storage Unit 300,Cold Storage,Storage,12000
+PROD004,Precision Pipette Set,Lab Consumables,Consumables,1200
+PROD005,Sterile Filter Pack,Lab Consumables,Consumables,850
+PROD006,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment,15000
+PROD007,Bio Sample Kit,Lab Consumables,Consumables,450
+PROD008,Thermal Cycler T8,Molecular Biology,Lab Instruments,18000
