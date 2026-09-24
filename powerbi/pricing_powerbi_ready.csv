@@ -1,0 +1,49 @@
+condition_id,customer_id,product_id,condition_type,customer_price,discount_pct,currency,effective_date,expiry_date,condition_status,max_allowed_discount_pct,customer_name,industry,country,customer_segment,account_manager,product_name,category,subcategory
+PC0001,CUST001,PROD008,Renewal,1314720.0,12,INR,2026-01-01,2026-09-15,Expired,15,Apollo Healthcare,Healthcare,India,Enterprise,Ravi Kumar,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0002,CUST001,PROD003,Standard,926280.0,7,INR,2026-01-16,2026-09-30,Active,15,Apollo Healthcare,Healthcare,India,Enterprise,Ravi Kumar,Cold Storage Unit 300,Cold Storage,Storage
+PC0003,CUST001,PROD002,Renewal,438240.0,22,INR,2026-01-01,2026-12-14,Active,15,Apollo Healthcare,Healthcare,India,Enterprise,Ravi Kumar,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0004,CUST001,PROD007,Contract,33615.0,10,INR,2026-01-01,2026-11-14,Active,15,Apollo Healthcare,Healthcare,India,Enterprise,Ravi Kumar,Bio Sample Kit,Lab Consumables,Consumables
+PC0005,CUST002,PROD008,Standard,1449180.0,3,INR,2026-01-01,2026-09-15,Expired,15,MedTech Solutions,Medical Devices,India,Enterprise,Priya Shah,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0006,CUST002,PROD003,Standard,946200.0,5,INR,2026-01-01,2026-11-14,Active,15,MedTech Solutions,Medical Devices,India,Enterprise,Priya Shah,Cold Storage Unit 300,Cold Storage,Storage
+PC0007,CUST002,PROD005,Contract,62084.0,12,INR,2026-03-02,2026-09-30,Active,15,MedTech Solutions,Medical Devices,India,Enterprise,Priya Shah,Sterile Filter Pack,Lab Consumables,Consumables
+PC0008,CUST002,PROD002,Standard,560250.0,10,INR,2026-01-31,2026-08-31,Expired,15,MedTech Solutions,Medical Devices,India,Enterprise,Priya Shah,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0009,CUST003,PROD008,Contract,15840.0,12,USD,2026-03-02,2026-10-15,Active,10,NorthStar Labs,Laboratory,USA,Mid-Market,Daniel Lee,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0010,CUST003,PROD002,Standard,7125.0,5,USD,2026-01-16,2026-10-15,Active,10,NorthStar Labs,Laboratory,USA,Mid-Market,Daniel Lee,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0011,CUST003,PROD003,Contract,11640.0,3,USD,2026-03-02,2026-09-15,Expired,10,NorthStar Labs,Laboratory,USA,Mid-Market,Daniel Lee,Cold Storage Unit 300,Cold Storage,Storage
+PC0012,CUST003,PROD004,Renewal,,7,USD,2026-01-31,2026-09-15,Expired,10,NorthStar Labs,Laboratory,USA,Mid-Market,Daniel Lee,Precision Pipette Set,Lab Consumables,Consumables
+PC0013,CUST004,PROD002,Standard,5451.0,8,GBP,2026-01-01,2026-10-30,Active,15,GreenLife Pharma,Pharmaceuticals,UK,Enterprise,Emma Wilson,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0014,CUST004,PROD005,Renewal,604.35,10,GBP,2026-01-31,2026-12-14,Active,15,GreenLife Pharma,Pharmaceuticals,UK,Enterprise,Emma Wilson,Sterile Filter Pack,Lab Consumables,Consumables
+PC0015,CUST004,PROD004,Standard,881.64,7,GBP,2026-01-16,2026-12-14,Active,15,GreenLife Pharma,Pharmaceuticals,UK,Enterprise,Emma Wilson,Precision Pipette Set,Lab Consumables,Consumables
+PC0016,CUST999,PROD006,Standard,11494.5,3,GBP,2026-01-16,2026-10-15,Active,15,,,,,,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0017,CUST005,PROD005,Contract,742.9,5,EUR,2026-01-01,2026-10-30,Active,10,BioCore Research,Research,Germany,Mid-Market,Lukas Weber,Sterile Filter Pack,Lab Consumables,Consumables
+PC0018,CUST005,PROD004,Contract,1015.68,8,EUR,2026-01-31,2026-09-30,Active,10,BioCore Research,Research,Germany,Mid-Market,Lukas Weber,Precision Pipette Set,Lab Consumables,Consumables
+PC0019,CUST005,PROD003,Contract,10267.2,7,EUR,2026-01-16,2026-12-14,Active,10,BioCore Research,Research,Germany,Mid-Market,Lukas Weber,Cold Storage Unit 300,Cold Storage,Storage
+PC0020,CUST005,PROD006,Renewal,12144.0,12,EUR,2026-01-01,2026-11-14,Active,10,BioCore Research,Research,Germany,Mid-Market,Lukas Weber,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0021,CUST006,PROD003,Contract,946200.0,5,INR,2026-01-16,2026-09-30,Active,15,CarePoint Hospitals,Healthcare,India,Enterprise,Anita Rao,Cold Storage Unit 300,Cold Storage,Storage
+PC0022,CUST006,PROD008,Renewal,1374480.0,8,INR,2026-01-31,2026-12-14,Active,15,CarePoint Hospitals,Healthcare,India,Enterprise,Anita Rao,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0023,CUST006,PROD004,Contract,89640.0,10,INR,2026-01-16,2026-12-14,Active,15,CarePoint Hospitals,Healthcare,India,Enterprise,Anita Rao,Precision Pipette Set,Lab Consumables,Consumables
+PC0024,CUST006,PROD006,Contract,1207650.0,3,INR,2026-01-16,2026-09-15,Expired,15,CarePoint Hospitals,Healthcare,India,Enterprise,Anita Rao,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0025,CUST007,PROD004,Standard,1104.0,8,USD,2026-01-31,2026-09-15,Expired,10,Precision Diagnostics,Diagnostics,USA,Mid-Market,Michael Brown,Precision Pipette Set,Lab Consumables,Consumables
+PC0026,CUST007,PROD001,Renewal,9000.0,10,USD,2026-01-31,2026-09-30,Active,10,Precision Diagnostics,Diagnostics,USA,Mid-Market,Michael Brown,Lab Analyzer X1,Laboratory Equipment,Lab Instruments
+PC0027,CUST007,PROD002,Contract,6900.0,8,USD,2026-03-02,2026-12-14,Active,10,Precision Diagnostics,Diagnostics,USA,Mid-Market,Michael Brown,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0028,CUST007,PROD006,Standard,14250.0,5,USD,2026-01-31,2026-09-30,Active,10,Precision Diagnostics,Diagnostics,USA,Mid-Market,Michael Brown,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0029,CUST008,PROD008,Renewal,14572.8,12,EUR,2026-01-31,2026-12-14,Active,15,NovaMed Devices,Medical Devices,France,Enterprise,Claire Martin,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0030,CUST008,PROD002,Standard,6348.0,8,EUR,2026-03-02,2026-10-15,Active,15,NovaMed Devices,Medical Devices,France,Enterprise,Claire Martin,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0031,CUST008,PROD007,Standard,393.3,5,EUR,2026-03-02,2026-09-15,Expired,15,NovaMed Devices,Medical Devices,France,Enterprise,Claire Martin,Bio Sample Kit,Lab Consumables,Consumables
+PC0032,CUST008,PROD001,Standard,8924.0,3,EUR,2026-01-16,2026-12-14,Active,15,NovaMed Devices,Medical Devices,France,Enterprise,Claire Martin,Lab Analyzer X1,Laboratory Equipment,Lab Instruments
+PC0033,CUST009,PROD007,Standard,32868.0,12,INR,2026-03-02,2026-11-14,Active,7,Wellness Labs,Laboratory,India,SMB,Arjun Mehta,Bio Sample Kit,Lab Consumables,Consumables
+PC0034,CUST009,PROD008,Contract,1374480.0,8,INR,2026-03-02,2026-11-14,Active,7,Wellness Labs,Laboratory,India,SMB,Arjun Mehta,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0035,CUST009,PROD004,Standard,89640.0,10,INR,2026-01-31,2026-11-14,Active,7,Wellness Labs,Laboratory,India,SMB,Arjun Mehta,Precision Pipette Set,Lab Consumables,Consumables
+PC0036,CUST009,PROD002,Renewal,547800.0,12,INR,2026-01-01,2026-12-14,Active,7,Wellness Labs,Laboratory,India,SMB,Arjun Mehta,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0037,CUST010,PROD003,Contract,11160.0,7,USD,2026-01-31,2026-09-15,Expired,15,Global BioLabs,Research,USA,Enterprise,Sophia Davis,Cold Storage Unit 300,Cold Storage,Storage
+PC0038,CUST010,PROD006,Standard,13800.0,8,USD,2026-01-16,2026-10-30,Active,15,Global BioLabs,Research,USA,Enterprise,Sophia Davis,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0039,CUST010,PROD002,Standard,6600.0,12,USD,2026-01-31,2026-11-14,Active,15,Global BioLabs,Research,USA,Enterprise,Sophia Davis,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0040,CUST010,PROD001,Contract,9000.0,10,USD,2026-01-01,2026-12-14,Active,15,Global BioLabs,Research,USA,Enterprise,Sophia Davis,Lab Analyzer X1,Laboratory Equipment,Lab Instruments
+PC0041,CUST011,PROD007,Contract,538.56,12,CAD,2026-01-16,2026-09-30,Active,15,Prime Therapeutics,Pharmaceuticals,Canada,Enterprise,Noah Smith,Bio Sample Kit,Lab Consumables,Consumables
+PC0042,CUST011,PROD006,Contract,19380.0,5,CAD,2026-01-01,2026-11-14,Active,15,Prime Therapeutics,Pharmaceuticals,Canada,Enterprise,Noah Smith,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0043,CUST011,PROD002,Contract,9384.0,8,CAD,2026-01-01,2026-09-15,Expired,15,Prime Therapeutics,Pharmaceuticals,Canada,Enterprise,Noah Smith,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0044,CUST011,PROD008,Standard,22766.4,7,CAD,2026-01-16,2026-09-15,Expired,15,Prime Therapeutics,Pharmaceuticals,Canada,Enterprise,Noah Smith,Thermal Cycler T8,Molecular Biology,Lab Instruments
+PC0045,CUST012,PROD006,Renewal,20520.0,10,AUD,2026-01-01,2026-09-15,Expired,10,Medisphere Group,Healthcare,Australia,Mid-Market,Olivia Taylor,Diagnostic Reader D2,Diagnostics,Diagnostic Equipment
+PC0046,CUST012,PROD003,Standard,16780.8,8,AUD,2026-01-01,2026-11-14,Active,10,Medisphere Group,Healthcare,Australia,Mid-Market,Olivia Taylor,Cold Storage Unit 300,Cold Storage,Storage
+PC0047,CUST012,PROD002,Standard,10830.0,5,AUD,2026-03-02,2026-11-14,Active,10,Medisphere Group,Healthcare,Australia,Mid-Market,Olivia Taylor,Centrifuge Pro 500,Laboratory Equipment,Lab Instruments
+PC0048,CUST012,PROD001,Renewal,14136.0,7,AUD,2026-03-02,2026-09-30,Active,10,Medisphere Group,Healthcare,Australia,Mid-Market,Olivia Taylor,Lab Analyzer X1,Laboratory Equipment,Lab Instruments
